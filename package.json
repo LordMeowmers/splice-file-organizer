@@ -1,0 +1,13 @@
+{
+  "name": "splice-file-organizer",
+  "version": "0.0.1",
+  "description": "A quick CLI script to put all of your newly purchased Splice samples into an 'unsorted' folder so you can organize them however you want!",
+  "main": "scan.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node scan.js"
+  },
+  "keywords": [],
+  "author": "TKNL Studio<tknl@tknl.studio>",
+  "license": "MIT"
+}
